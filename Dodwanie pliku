@@ -1,0 +1,4 @@
+CMD
+git add .
+git commit -m "Dodano nowy plik"
+git push origin main
